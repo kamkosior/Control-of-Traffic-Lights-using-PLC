@@ -1,7 +1,5 @@
 # Control-of-Traffic-Lights-using-PLC
 
-!!!!IN WORK!!!!
-
  <h2 align="center">
 Control of trafficlights using PLC
 </h2>
